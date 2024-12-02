@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirection...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/uploads/2021/07/Victor-Liuw.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/uploads/2021/07/Victor-Liuw.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-content/uploads/2021/07/Victor-Liuw.jpg">/wp-content/uploads/2021/07/Victor-Liuw.jpg</a></p>
+	</body>
+</html>
