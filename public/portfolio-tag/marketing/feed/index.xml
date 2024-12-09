@@ -13,7 +13,7 @@
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Jul 2021 07:31:44 +0000</lastBuildDate>
-	<language>fr-FR</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -143,7 +143,7 @@
 						<div class="elementor-element elementor-element-821 elementor-widget elementor-widget-unlimited-charts" data-id="821" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type='bar' data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_4968" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_2152" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-3446 elementor-widget elementor-widget-text-editor" data-id="3446" data-element_type="widget" data-widget_type="text-editor.default">
@@ -197,7 +197,7 @@
 						<div class="elementor-element elementor-element-7c1b elementor-widget elementor-widget-unlimited-charts" data-id="7c1b" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type='doughnut' data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_6358" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_4444" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 					</div>

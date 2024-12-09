@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-12-02T15:10:50+00:00</lastmod>
+		<lastmod>2024-12-06T10:50:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/10/pensive-female_journalist.jpg</image:loc>
 		</image:image>
@@ -133,7 +133,7 @@
 			<image:loc>/wp-content/uploads/2024/12/kiabi.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/12/photo-1486673748761-a8d18475c757-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/photo-1486673748761-a8d18475c757.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/10/blue-chek-icon.png</image:loc>
@@ -184,10 +184,10 @@
 			<image:loc>/wp-content/uploads/2024/11/Fichier-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/Fichier-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Fichier-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/Roadhero-logo.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/10/contact_icon.png</image:loc>
