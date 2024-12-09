@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Commentaires sur : Bonjour tout le monde !	</title>
+	Comments on: Bonjour tout le monde !	</title>
 	<atom:link href="/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
 	<link>/bonjour-tout-le-monde/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>
-		Par : Un commentateur ou commentatrice WordPress		</title>
+		By: Un commentateur ou commentatrice WordPress		</title>
 		<link>/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
